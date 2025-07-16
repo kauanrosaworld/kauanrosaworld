@@ -15,5 +15,32 @@
 - Evolução real de alguém que tá correndo atrás 💻✨
 - Muito código com ❤️
 
+---
 
-✨ *Em constante construção... igual meu portfólio!*  
+## 🛠️ Tecnologias que estou usando
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+</div>
+
+---
+
+## 📲 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Rosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-rosatec/)
+
+---
+
+## 📊 GitHub Stats
+
+![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanrosaworld&show_icons=true&theme=tokyonight)
+
+## 🧠 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrosaworld&layout=compact&theme=tokyonight)
+
+---
+
+✨ *Em constante construção... igual meu portfólio!*
