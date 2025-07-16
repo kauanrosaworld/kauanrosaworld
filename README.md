@@ -6,7 +6,6 @@
 🎨 Curioso por tudo que envolve **design**, **HTML/CSS**, **JavaScript** 
 
 ☕ Café na veia, fone no ouvido e VS Code aberto  
-🐱 Apaixonado por gatos (e eles aparecem mais do que deviam nas videoconferências)
 
 📚 Entre uma aula e outra, tô sempre buscando aprender mais, errando com estilo e refatorando com orgulho
 
