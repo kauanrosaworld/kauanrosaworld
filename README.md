@@ -3,7 +3,7 @@
 🎓 Estudante e entusiasta da tecnologia  
 🌎 Em busca da tão sonhada **vaga remota**  
 🚀 Atualmente mergulhado no mundo **Front-End** com a Alura  
-🎨 Curioso por tudo que envolve **design**, **HTML/CSS**, **JavaScript** e aquela pitada de criatividade  
+🎨 Curioso por tudo que envolve **design**, **HTML/CSS**, **JavaScript** 
 
 ☕ Café na veia, fone no ouvido e VS Code aberto  
 🐱 Apaixonado por gatos (e eles aparecem mais do que deviam nas videoconferências)
