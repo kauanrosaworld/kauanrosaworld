@@ -10,7 +10,7 @@
 📚 Entre uma aula e outra, tô sempre buscando aprender mais, errando com estilo e refatorando com orgulho
 
 🔧 Aqui você vai encontrar:
-- Projetinhos, experimentos e ideias aleatórias
+- Projetos, experimentos e ideias aleatórias
 - Evolução real de alguém que tá correndo atrás 💻✨
 - Muito código com ❤️
 
