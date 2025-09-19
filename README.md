@@ -42,3 +42,7 @@
 ---
 
 ✨ *Sempre em construção... igual meu portfólio!*  
+
+## 🐍 Minhas contribuições
+
+![Snake animation](https://github.com/kauanrosaworld/kauanrosaworld/blob/output/github-contribution-grid-snake.svg)
