@@ -54,9 +54,11 @@ Construir aplicações completas, do front ao banco de dados, evoluindo constant
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://img.shields.io/badge/GitHub-Kauan%20Rosa-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kauan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauanrosaworld&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrosaworld&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauanrosaworld&theme=radical&hide_border=true)
 
-![Top Languages](https://img.shields.io/badge/Languages-JavaScript%20|%20HTML%20|%20CSS-blue?style=for-the-badge)
+
 
 
 
