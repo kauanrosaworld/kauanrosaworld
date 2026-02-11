@@ -58,6 +58,7 @@ Construir aplicações completas, do front ao banco de dados, evoluindo constant
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrosaworld&layout=compact&theme=tokyonight&hide_border=true)
 
+
 ---
 
 ✨ *Sempre em construção... igual meu portfólio!*  
