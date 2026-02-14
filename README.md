@@ -31,6 +31,18 @@ Aqui você vai encontrar:
 
 ---
 
+
+
+## 🌍 Idiomas
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/🇧🇷%20Português-Nativo-009C3B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🇦🇷%20Espanhol-Fluente-74ACDF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🇺🇸%20Inglês-Intermediário-3C3B6E?style=for-the-badge"/>
+</div>
+
+---
+
 ## 🧠 O que estou estudando e praticando
 
 - Lógica de programação e boas práticas  
