@@ -2,10 +2,7 @@
 
 🎓 Estudante de **Sistemas de Informação** | 🌎 Buscando uma **vaga remota**  
 🚀 Focado em **Front-End** e explorando **Back-End com Node.js & MySQL**  
-🎨 Apaixonado por **design**, **HTML/CSS**, **JavaScript** e arquitetura de aplicações  
-
-☕ Café na veia, fone no ouvido e VS Code sempre aberto.  
-📚 Entre uma aula e outra, aprendo, erro com estilo e refatoro com orgulho.
+🎨 Apaixonado por **design**, **HTML/CSS**, **JavaScript** e arquitetura de aplicações 
 
 ---
 
@@ -40,17 +37,6 @@ Aqui você vai encontrar:
   <img src="https://img.shields.io/badge/🇦🇷%20Espanhol-Fluente-74ACDF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🇺🇸%20Inglês-Intermediário-3C3B6E?style=for-the-badge"/>
 </div>
-
----
-
-## 🧠 O que estou estudando e praticando
-
-- Lógica de programação e boas práticas  
-- Criação e consumo de **APIs REST**  
-- Desenvolvimento de **APIs com Node.js**  
-- Integração com **bancos de dados MySQL**  
-- Versionamento com **Git & GitHub**  
-- Estruturação de projetos e organização de código  
 
 ---
 
